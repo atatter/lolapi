@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:16:29:46 +0200] "GET / HTTP/1.1" 304 - http-bio-8080-exec-1 67
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:16:29:48 +0200] "GET /api/champions HTTP/1.1" 500 3907 http-bio-8080-exec-2 1848
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:10:58 +0200] "GET / HTTP/1.1" 200 1081 http-bio-8080-exec-1 40
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:10:58 +0200] "GET /app/app.js HTTP/1.1" 304 - http-bio-8080-exec-4 6
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:10:58 +0200] "GET /app/http.srv.js HTTP/1.1" 304 - http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:10:58 +0200] "GET /app/message.srv.js HTTP/1.1" 304 - http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:10:58 +0200] "GET /app/post.ctrl.js HTTP/1.1" 304 - http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:10:59 +0200] "GET /api/posts HTTP/1.1" 404 949 http-bio-8080-exec-8 28
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:11:02 +0200] "GET /api/customers HTTP/1.1" 200 12 http-bio-8080-exec-9 422
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:11:16 +0200] "GET /api/champions HTTP/1.1" 500 3907 http-bio-8080-exec-9 576
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:12:07 +0200] "GET /api/champions HTTP/1.1" 200 - http-bio-8080-exec-1 975
+0:0:0:0:0:0:0:1 - - [06/Nov/2016:17:14:10 +0200] "GET /api/champions HTTP/1.1" 200 1514855 http-bio-8080-exec-1 1979
